@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_event_local_nearby_hotels",
+  "info": {
+    "displayName": "nearby-hotels"
+  },
+  "options": {},
+  "attributes": {
+    "titleLink": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

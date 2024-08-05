@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_event_detail_schedule_cards",
+  "info": {
+    "displayName": "scheduleCard"
+  },
+  "options": {},
+  "attributes": {
+    "descriptionCard": {
+      "type": "text"
+    }
+  }
+}

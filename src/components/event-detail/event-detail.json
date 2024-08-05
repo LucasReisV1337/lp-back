@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_event_detail_event_details",
+  "info": {
+    "displayName": "EventDetail"
+  },
+  "options": {},
+  "attributes": {
+    "dateCard": {
+      "displayName": "dateCard",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-detail.date-card"
+    },
+    "localizationCard": {
+      "displayName": "localizationCard",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-detail.localization-card"
+    },
+    "scheduleCard": {
+      "displayName": "scheduleCard",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-detail.schedule-card"
+    },
+    "subscriptionCard": {
+      "displayName": "subscriptionCard",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-detail.subscription-card"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_event_detail_localization_cards",
+  "info": {
+    "displayName": "localizationCard"
+  },
+  "options": {},
+  "attributes": {
+    "descriptionCard": {
+      "type": "text"
+    }
+  }
+}

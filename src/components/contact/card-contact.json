@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_contact_card_contacts",
+  "info": {
+    "displayName": "cardContact"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "emails": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    }
+  }
+}

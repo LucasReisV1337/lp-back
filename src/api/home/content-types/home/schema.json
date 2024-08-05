@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "EventDetailComponent": {
+      "displayName": "EventDetail",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-detail.event-detail"
+    },
+    "TimelineComponent": {
+      "displayName": "ScheduleCard",
+      "type": "component",
+      "repeatable": false,
+      "component": "timeline-card.schedule-card"
+    },
+    "EventLocal": {
+      "displayName": "eventLocal",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-local.event-local"
+    },
+    "BranchLocations": {
+      "displayName": "BranchLocations",
+      "type": "component",
+      "repeatable": false,
+      "component": "branch-locations.branch-locations"
+    },
+    "Contacts": {
+      "displayName": "Contact",
+      "type": "component",
+      "repeatable": false,
+      "component": "contact.contact"
+    }
+  }
+}

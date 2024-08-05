@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_event_detail_date_cards",
+  "info": {
+    "displayName": "dateCard"
+  },
+  "options": {},
+  "attributes": {
+    "descriptionCard": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_event_local_event_locals",
+  "info": {
+    "displayName": "eventLocal"
+  },
+  "options": {},
+  "attributes": {
+    "googleMaps": {
+      "displayName": "googleMap",
+      "type": "component",
+      "repeatable": false,
+      "component": "event-local.google-map"
+    },
+    "nearbyHotels": {
+      "displayName": "nearby-hotels",
+      "type": "component",
+      "repeatable": true,
+      "component": "event-local.nearby-hotels"
+    }
+  }
+}

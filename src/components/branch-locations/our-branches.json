@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_branch_locations_our_branches",
+  "info": {
+    "displayName": "ourBranches"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "googleMapLink": {
+      "type": "string"
+    }
+  }
+}

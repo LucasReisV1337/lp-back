@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_branch_locations_branch_locations",
+  "info": {
+    "displayName": "BranchLocations"
+  },
+  "options": {},
+  "attributes": {
+    "ourBranches": {
+      "displayName": "ourBranches",
+      "type": "component",
+      "repeatable": true,
+      "component": "branch-locations.our-branches"
+    }
+  }
+}

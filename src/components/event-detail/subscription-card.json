@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_event_detail_subscription_cards",
+  "info": {
+    "displayName": "subscriptionCard"
+  },
+  "options": {},
+  "attributes": {
+    "descriptionCard": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_schedule_card_schedule_cards",
+  "info": {
+    "displayName": "TimelineCard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "timeLineCart": {
+      "displayName": "timelineCart",
+      "type": "component",
+      "repeatable": true,
+      "component": "timeline-card.timeline-cart"
+    }
+  }
+}

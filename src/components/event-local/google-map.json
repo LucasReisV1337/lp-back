@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_event_local_google_maps",
+  "info": {
+    "displayName": "googleMap"
+  },
+  "options": {},
+  "attributes": {
+    "urlMap": {
+      "type": "string"
+    }
+  }
+}

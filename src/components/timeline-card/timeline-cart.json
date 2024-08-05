@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_timeline_card_timeline_carts",
+  "info": {
+    "displayName": "timelineCart"
+  },
+  "options": {},
+  "attributes": {
+    "day": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
